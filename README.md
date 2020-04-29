@@ -1,5 +1,5 @@
 # Api-Btn-whatsapp
-Api do whatsapp com botão direto para app
+Api do whatsapp  com z-index para ser colocado na home, com atalho direto para o whatsapp
 
 
 
